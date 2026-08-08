@@ -1,14 +1,16 @@
-PROJECT #001 — GITHUB UPLOAD
+HOMEPAGE UPDATE
 
-Upload these TWO files to the ROOT of your existing tech-projects repository:
-1. project-001.html
+Upload/replace these files in the ROOT of the GitHub repository:
+1. index.html
 2. project-001-hero.jpg
 
-Replace the existing project-001.html when GitHub asks to overwrite it.
+Do not delete project-001.html or style.css.
 
-Do NOT delete index.html or style.css.
+The updated homepage adds:
+- Professional hero/cover section
+- Explore Projects button
+- Project #001 linked to project-001.html
+- Project #001 card uses the supplied self-healing concrete image
 
-After committing, open:
-https://techprojectoffcial-lang.github.io/tech-projects/project-001.html
-
-The article already links to your existing style.css and index.html.
+After committing, wait a few minutes and refresh:
+https://techprojectoffcial-lang.github.io/tech-projects/
