@@ -1,16 +1,18 @@
-HOMEPAGE UPDATE
+FINAL LOGO FIX
 
-Upload/replace these files in the ROOT of the GitHub repository:
+In GitHub repository ROOT, upload/replace:
 1. index.html
-2. project-001-hero.jpg
+2. tech-projects-logo.png
+3. tech-projects-mark.png
+4. project-001-hero.jpg
 
 Do not delete project-001.html or style.css.
 
-The updated homepage adds:
-- Professional hero/cover section
-- Explore Projects button
-- Project #001 linked to project-001.html
-- Project #001 card uses the supplied self-healing concrete image
+This version:
+- Shows your full TECH PROJECTS logo in the homepage hero.
+- Shows the logo mark in the header.
+- Makes Project #001 clickable.
+- Shows the real Project #001 image on the homepage card.
 
-After committing, wait a few minutes and refresh:
+After Commit changes, wait a few minutes and refresh:
 https://techprojectoffcial-lang.github.io/tech-projects/
