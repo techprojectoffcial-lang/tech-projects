@@ -1,0 +1,14 @@
+PROJECT #001 — GITHUB UPLOAD
+
+Upload these TWO files to the ROOT of your existing tech-projects repository:
+1. project-001.html
+2. project-001-hero.jpg
+
+Replace the existing project-001.html when GitHub asks to overwrite it.
+
+Do NOT delete index.html or style.css.
+
+After committing, open:
+https://techprojectoffcial-lang.github.io/tech-projects/project-001.html
+
+The article already links to your existing style.css and index.html.
